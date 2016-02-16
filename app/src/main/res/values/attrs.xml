@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="roundpicture" >
+        <attr name="picture" format="reference"/>
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="ScratchCardView">
+        <attr name="scratchcard" format="reference"/>
+        <attr name="pensize" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="BitmapShaderView">
+        <attr name="pic" format="reference"/>
+    </declare-styleable>
+    <declare-styleable name="ReflectionView">
+        <attr name="img" format="reference"/>
+    </declare-styleable>
+</resources>
